@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ivinn\\source\\repos\\FirstApplication\\FirstApplication\\FirstApplication.csproj": {}
+    "C:\\Users\\ivinn\\source\\repos\\FirstApplication\\cyberneticsua\\oop_2024\\FirstApplication\\FirstApplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ivinn\\source\\repos\\FirstApplication\\FirstApplication\\FirstApplication.csproj": {
+    "C:\\Users\\ivinn\\source\\repos\\FirstApplication\\cyberneticsua\\oop_2024\\FirstApplication\\FirstApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ivinn\\source\\repos\\FirstApplication\\FirstApplication\\FirstApplication.csproj",
+        "projectUniqueName": "C:\\Users\\ivinn\\source\\repos\\FirstApplication\\cyberneticsua\\oop_2024\\FirstApplication\\FirstApplication.csproj",
         "projectName": "FirstApplication",
-        "projectPath": "C:\\Users\\ivinn\\source\\repos\\FirstApplication\\FirstApplication\\FirstApplication.csproj",
+        "projectPath": "C:\\Users\\ivinn\\source\\repos\\FirstApplication\\cyberneticsua\\oop_2024\\FirstApplication\\FirstApplication.csproj",
         "packagesPath": "C:\\Users\\ivinn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ivinn\\source\\repos\\FirstApplication\\FirstApplication\\obj\\",
+        "outputPath": "C:\\Users\\ivinn\\source\\repos\\FirstApplication\\cyberneticsua\\oop_2024\\FirstApplication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ivinn\\AppData\\Roaming\\NuGet\\NuGet.Config",
